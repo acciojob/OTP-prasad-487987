@@ -1,4 +1,4 @@
-//your JS code here. If required.
+
 //your JS code here. If required.
 let codes = document.querySelectorAll(".code");
 
